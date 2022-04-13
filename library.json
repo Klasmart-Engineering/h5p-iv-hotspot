@@ -4,8 +4,8 @@
   "license": "MIT",
   "author": "Joubel",
   "majorVersion": 1,
-  "minorVersion": 2,
-  "patchVersion": 14,
+  "minorVersion": 3,
+  "patchVersion": 0,
   "runnable": 0,
   "metadataSettings": {
     "disable": 1,
@@ -27,6 +27,11 @@
   ],
   "preloadedDependencies": [
     {
+      "machineName": "FontKidsLoop",
+      "majorVersion": 1,
+      "minorVersion": 0
+    },
+    {
       "machineName": "H5P.Link",
       "majorVersion": 1,
       "minorVersion": 3
@@ -41,7 +46,7 @@
     {
       "machineName": "H5PEditor.ColorSelector",
       "majorVersion": 1,
-      "minorVersion": 2
+      "minorVersion": 4
     },
     {
       "machineName": "H5PEditor.UrlField",
@@ -55,6 +60,11 @@
     },
     {
       "machineName": "H5PEditor.ShowWhen",
+      "majorVersion": 1,
+      "minorVersion": 0
+    },
+    {
+      "machineName": "EditorFontKidsLoop",
       "majorVersion": 1,
       "minorVersion": 0
     }
